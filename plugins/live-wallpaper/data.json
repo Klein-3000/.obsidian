@@ -1,0 +1,75 @@
+{
+  "wallpaperPath": "plugins/live-wallpaper/wallpapers/active/normal/李素裳.png",
+  "wallpaperType": "image",
+  "playbackSpeed": 1,
+  "Quality": false,
+  "Reposition": false,
+  "opacity": 15,
+  "zIndex": 29,
+  "blurRadius": 8,
+  "brightness": 100,
+  "HistoryPaths": [
+    {
+      "path": "plugins/live-wallpaper/wallpapers/history/李素裳.png",
+      "type": "image",
+      "fileName": "李素裳.png"
+    },
+    {
+      "path": "plugins/live-wallpaper/wallpapers/history/yingzhao.mp4",
+      "type": "video",
+      "fileName": "yingzhao.mp4"
+    },
+    {
+      "path": "plugins/live-wallpaper/wallpapers/history/menhera.jpg",
+      "type": "image",
+      "fileName": "menhera.jpg"
+    },
+    {
+      "path": "plugins/live-wallpaper/wallpapers/history/changli-wallpaper.jpg",
+      "type": "image",
+      "fileName": "changli-wallpaper.jpg"
+    },
+    {
+      "path": "plugins/live-wallpaper/wallpapers/history/jane@-wallpaper.png",
+      "type": "image",
+      "fileName": "jane@-wallpaper.png"
+    }
+  ],
+  "mobileBackgroundWidth": "100vw",
+  "mobileBackgroundHeight": "100vh",
+  "AdnvOpend": false,
+  "modalStyle": {
+    "effect": "blur+dim",
+    "blurRadius": 10,
+    "dimOpacity": 0.7
+  },
+  "TextArenas": [
+    {
+      "target": "",
+      "attribute": ""
+    }
+  ],
+  "Color": "#000000",
+  "Position": "Center",
+  "PositionX": 50,
+  "PositionY": 50,
+  "Scale": 1,
+  "useObjectFit": true,
+  "INBUILD": false,
+  "scheduledWallpapers": {
+    "wallpaperDayPaths": [],
+    "wallpaperWeekPaths": [],
+    "options": {
+      "dayNightMode": false,
+      "weekly": false,
+      "shuffle": false,
+      "dayStartTime": "08:00",
+      "nightStartTime": "20:00",
+      "intervalCheckTime": "00:10",
+      "isCustomInterval": false
+    },
+    "wallpaperDayTypes": [],
+    "wallpaperWeekTypes": []
+  },
+  "migrated": true
+}

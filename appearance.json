@@ -1,0 +1,21 @@
+{
+  "interfaceFontFamily": "仓耳今楷05",
+  "textFontFamily": "仓耳宋楷",
+  "monospaceFontFamily": "CaskaydiaCove Nerd Font Mono",
+  "enabledCssSnippets": [
+    "colorful clock",
+    "theme1",
+    "Akifyss_Obsidian-border",
+    "realistic Hightlight",
+    "Color Header",
+    "Notation Colour blocks",
+    "custom background",
+    "command panel style",
+    "MCL Multi Column",
+    "Akifyss_Obsidian-border(theme)",
+    "Colored Siedbar Items",
+    "banner",
+    "Celtic callout border",
+    "background"
+  ]
+}

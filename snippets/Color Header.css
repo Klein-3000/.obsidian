@@ -1,0 +1,30 @@
+/* 编辑视图 + 阅读视图统一标题颜色 */
+.view-content h1,
+.cm-header-1 {
+  color: #f37b84 !important;
+}
+
+.view-content h2,
+.cm-header-2 {
+  color: #ffd98c !important;
+}
+
+.view-content h3,
+.cm-header-3 {
+  color: #9ff369 !important;
+}
+
+.view-content h4,
+.cm-header-4 {
+  color: #59d5c4 !important;
+}
+
+.view-content h5,
+.cm-header-5 {
+  color: #2a8aff !important;
+}
+
+.view-content h6,
+.cm-header-6 {
+  color: #b99aff !important;
+}
