@@ -13,3 +13,7 @@ git clone git@github.com:Klein-3000/.obsidian.git
 2. dataview
 3. dms-widget-sidebar(右侧边栏小组件)
 4. hover-reveal(悬浮显示)
+5. i18n(翻译插件的插件)
+6. live-wallpaper(obsidian背景,支持图片、视屏、GIF)
+7. obsidian-git(简化git操作,通过github、Gitee实现同步。已被i18n插件汉化)
+8. obsidian-style-settings(设置样式)

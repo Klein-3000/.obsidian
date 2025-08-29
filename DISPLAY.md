@@ -40,6 +40,30 @@
 >    # 建议空两行，以便显示完整悬浮文本
 >        tar [-zxf]{调用gzip,解压参数'f'后面的归档文件} <file.archive>
 > ```
+## i18n
+汉化插件的插件
+```powershell
+# 
+plugins/<plugin>
+└─lang
+	├─ state.json
+	└─ zh-ch.json
+```
+> [!attention] 注意
+> i18n 会**修改**被汉化的插件, 记得备份插件
+
+## live-wallpaper
+设置 obsidian 背景图,支持图片、视屏、GIF(支持本地资源)。
+```powershell
+plugins/live-wallpaper
+└─wallpapers
+    ├─active
+    │  └─normal  <-- 存放当前使用背景资源(有且仅有当前背景资源)
+    └─history    <-- 存放历史背景资源
+```
+## obsidian-git
+
+## obsidian-style-setting
 
 
 ---
@@ -47,7 +71,12 @@
 ## Akifyss_Obsidian-border(theme).css
 ==外观主题==
 辅助文件 Borderless.json
-辅助插件 style-setting : 启用后自动隐藏侧边栏
+辅助插件 style-setting : 启用后自动**隐藏**侧边栏
+
+其他功能
+1. **悬浮**在标题上,**显示**为几级标题
+2. 支持**图片放大**功能
+3. 左侧边栏带有 "目录" 和 " 文件" 的图片
 ## Color Header.css
 彩虹==标题==
 编辑视图 + 阅读视图==统一==标题颜色 
@@ -86,7 +115,7 @@
 彩虹==时钟==
 装饰性使用, 用户搭配主页
 辅助插件 dataview
-在".md" 文件中使用 colorful clock dataviewjs.txt 中的代码显示==时钟== 。(代码类型==dataviewjs==)
+在".md" 文件中使用 snippets/colorful clock dataviewjs.txt 中的代码显示==时钟== 。(代码类型==dataviewjs==)
 
 ## Notation Colour blocks.css
 github 仓库: [notion-colour-block](https://github.com/deathau/obsidian-snippets/blob/main/notation-colour-blocks.css)
