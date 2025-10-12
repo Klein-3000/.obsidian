@@ -1,6 +1,6 @@
 {
   "interfaceFontFamily": "仓耳今楷05",
-  "textFontFamily": "仓耳宋楷",
+  "textFontFamily": "仓耳宋楷, Caskaydia CoveNerd Font Mono",
   "monospaceFontFamily": "CaskaydiaCove Nerd Font Mono",
   "enabledCssSnippets": [
     "colorful clock",
@@ -11,11 +11,14 @@
     "Notation Colour blocks",
     "custom background",
     "command panel style",
-    "MCL Multi Column",
     "Akifyss_Obsidian-border(theme)",
     "Colored Siedbar Items",
     "banner",
     "Celtic callout border",
-    "background"
-  ]
+    "background",
+    "Highlight the current line",
+    "autohide-yaml-header",
+    "MCL Multi Column"
+  ],
+  "cssTheme": ""
 }

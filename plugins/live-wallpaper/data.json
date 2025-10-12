@@ -4,20 +4,20 @@
   "playbackSpeed": 1,
   "Quality": false,
   "Reposition": false,
-  "opacity": 15,
+  "opacity": 14,
   "zIndex": 29,
   "blurRadius": 8,
   "brightness": 100,
   "HistoryPaths": [
     {
+      "path": "plugins/live-wallpaper/wallpapers/history/iuno@(永庆).jpg",
+      "type": "image",
+      "fileName": "iuno@(永庆).jpg"
+    },
+    {
       "path": "plugins/live-wallpaper/wallpapers/history/李素裳.png",
       "type": "image",
       "fileName": "李素裳.png"
-    },
-    {
-      "path": "plugins/live-wallpaper/wallpapers/history/yingzhao.mp4",
-      "type": "video",
-      "fileName": "yingzhao.mp4"
     },
     {
       "path": "plugins/live-wallpaper/wallpapers/history/menhera.jpg",
@@ -28,11 +28,6 @@
       "path": "plugins/live-wallpaper/wallpapers/history/changli-wallpaper.jpg",
       "type": "image",
       "fileName": "changli-wallpaper.jpg"
-    },
-    {
-      "path": "plugins/live-wallpaper/wallpapers/history/jane@-wallpaper.png",
-      "type": "image",
-      "fileName": "jane@-wallpaper.png"
     }
   ],
   "mobileBackgroundWidth": "100vw",

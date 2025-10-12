@@ -1,4 +1,22 @@
 # 一、整体认知
+```shell
+.obsidian
+    ├── [app.json]{存储核心行为设置（如自动更新链接、PDF 导出、Vim 模式等）}
+    ├── [appearance.json]{记录,使用的字体}
+    ├── [community-plugins.json]{记录启用的社区插件}
+    ├── [core-plugins.json]{记录启用的核心插件}
+    ├── [hotkeys.json]{配置快捷键}
+    ├── page-preview.json
+    ├── [plugins/]{存放安装的插件的本体}
+    ├── [snippets/]{存放各种css文件} 
+    ├── [templates.json]{指定存放模版的目录}
+    ├── themes/
+    └── [workspace.json]{记录: 1.打开过的标签页; 2.窗口的位置,大小等}
+ 
+```
+> [!attention] 注意
+> 同步配置时,不要同步"workspace.json"文件
+
 
 | 类别           | 包含文件                                                      | 作用          |
 | ------------ | --------------------------------------------------------- | ----------- |
@@ -76,7 +94,7 @@ plugins/live-wallpaper
 其他功能
 1. **悬浮**在标题上,**显示**为几级标题
 2. 支持**图片放大**功能
-3. 左侧边栏带有 "目录" 和 " 文件" 的图片
+3. 左侧边栏带有 "目录" 和 " 文件" 的**图标**
 ## Color Header.css
 彩虹==标题==
 编辑视图 + 阅读视图==统一==标题颜色 
@@ -115,7 +133,7 @@ plugins/live-wallpaper
 彩虹==时钟==
 装饰性使用, 用户搭配主页
 辅助插件 dataview
-在".md" 文件中使用 snippets/colorful clock dataviewjs.txt 中的代码显示==时钟== 。(代码类型==dataviewjs==)
+在".md" 文件中使用 `snippets/colorful clock dataviewjs.txt` 中的代码显示==时钟== 。(代码类型==dataviewjs==)
 
 ## Notation Colour blocks.css
 github 仓库: [notion-colour-block](https://github.com/deathau/obsidian-snippets/blob/main/notation-colour-blocks.css)
