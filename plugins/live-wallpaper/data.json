@@ -1,33 +1,38 @@
 {
-  "wallpaperPath": "plugins/live-wallpaper/wallpapers/active/normal/李素裳.png",
+  "wallpaperPath": "plugins/live-wallpaper/wallpapers/active/normal/angels_bg.jpg",
   "wallpaperType": "image",
   "playbackSpeed": 1,
   "Quality": false,
   "Reposition": false,
-  "opacity": 14,
-  "zIndex": 29,
+  "opacity": 26,
+  "zIndex": 17,
   "blurRadius": 8,
   "brightness": 100,
   "HistoryPaths": [
     {
-      "path": "plugins/live-wallpaper/wallpapers/history/iuno@(永庆).jpg",
+      "path": "plugins/live-wallpaper/wallpapers/history/angels_bg.jpg",
       "type": "image",
-      "fileName": "iuno@(永庆).jpg"
+      "fileName": "angels_bg.jpg"
     },
     {
-      "path": "plugins/live-wallpaper/wallpapers/history/李素裳.png",
+      "path": "plugins/live-wallpaper/wallpapers/history/kiana-wallpaper.png",
       "type": "image",
-      "fileName": "李素裳.png"
+      "fileName": "kiana-wallpaper.png"
     },
     {
-      "path": "plugins/live-wallpaper/wallpapers/history/menhera.jpg",
+      "path": "plugins/live-wallpaper/wallpapers/history/李素裳@.png",
       "type": "image",
-      "fileName": "menhera.jpg"
+      "fileName": "李素裳@.png"
     },
     {
-      "path": "plugins/live-wallpaper/wallpapers/history/changli-wallpaper.jpg",
+      "path": "plugins/live-wallpaper/wallpapers/history/李素裳.JPG",
       "type": "image",
-      "fileName": "changli-wallpaper.jpg"
+      "fileName": "李素裳.JPG"
+    },
+    {
+      "path": "plugins/live-wallpaper/wallpapers/history/小猫女仆降临-bg.jpg",
+      "type": "image",
+      "fileName": "小猫女仆降临-bg.jpg"
     }
   ],
   "mobileBackgroundWidth": "100vw",
